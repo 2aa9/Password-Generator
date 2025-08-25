@@ -13,3 +13,11 @@ A simple Python CLI app to generate strong random passwords.
 ## Usage
 ```bash
 python password_generator.py
+
+## Example:
+🔑 Password Generator 🔑
+Enter password length (default 12): 16
+Include digits? (y/n): y
+Include symbols? (y/n): y
+
+Generated password: G!a9#P2mLx8@tR5D
